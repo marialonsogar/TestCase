@@ -4,4 +4,5 @@ seaborn=="0.13.2"
 sktime=="0.28.0"
 statsmodels=="0.14.2"
 pmdarima=="2.0.4"
-statsforecast
+statsforecast=="1.7.4"
+xgboost=="2.0.3"
